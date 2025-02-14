@@ -4,7 +4,7 @@ Here's my personal solutions to algorithm problems.
 
 ### 使用方法
 
-文件名代表题目，直接去到对应 OJ 搜索题目即可！
+文件名代表题目（部分洛谷题目因为一些原因只有题号，但是可以直接搜索题号），直接去到对应 OJ 搜索题目即可！
 
 ### OJ 列表
 
