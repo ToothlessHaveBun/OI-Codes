@@ -1,18 +1,16 @@
-<div align="right">
-  <img alt="简体中文" src="https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-green?style=for-the-badge">
-  <a href="en_us-README.md">
-   <img alt="English" src="https://img.shields.io/badge/English-gray?style=for-the-badge">
-  </a>
-</div>
+# OI-Codes
 
-# 😀 欢迎来到 FredericationOI-Code-Repository
+Here's my personal solutions to algorithm problems.
 
-❗️注意事项：
+### 使用方法
 
- - 代码如需改进可以提[Issues](https://github.com/FrederickAsYou/FredericationOI-Code-Repository/issues)
+文件名代表题目，直接去到对应 OJ 搜索题目即可！
 
- - 也可以在[Discussions](https://github.com/FrederickAsYou/FredericationOI-Code-Repository/discussions)中提出自己的想法，与其他伙伴交流
+### OJ 列表
 
-# Author
-
-OI Code Repository © Frederick Chen.
+| Name | Link | Account
+| :---: | :---: | :---: |
+| Codeforces | codeforces.com | [Fengyi_Chen](https://codeforces.com/profile/Fengyi_Chen) |
+| FZOI | 内部 OJ | 内部 OJ |
+| Luogu | luogu.com.cn | [BunDragon126](https://www.luogu.com.cn/user/927203) |
+| XSMOJ | 内部 OJ | 内部 OJ |
