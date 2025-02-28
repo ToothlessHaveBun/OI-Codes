@@ -54,3 +54,4 @@ dkms.conf
 # config
 fame.cpp
 .cph/
+.vscode/
