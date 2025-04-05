@@ -2,6 +2,8 @@
 
 Here's my personal solutions to algorithm problems.
 
+信息学竞赛代码仓库。
+
 ### 使用方法
 
 文件名代表题目（部分洛谷题目因为一些原因只有题号，但是可以直接搜索题号），直接去到对应 OJ 搜索题目即可！
