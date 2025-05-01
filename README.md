@@ -17,3 +17,9 @@ Here's my personal solutions to algorithm problems.
 | FZOI | 内部 OJ | 内部 OJ |
 | Luogu | luogu.com.cn | [BunDragon126](https://www.luogu.com.cn/user/927203) |
 | XSMOJ | 内部 OJ | 内部 OJ |
+
+## Author
+
+**OI-Codes** &copy; [Frederick Chen](https://www.ohdragonboi.cn) | Published under [MIT-License](LICENSE).
+
+> [Portfolio](https://fredcss.dev) · [Blog :cn:](https://www.ohdragonboi.cn) · GitHub @ [wczffl-503](https://github.com/wczffl-503) · Twitter @ [wczffL_503](https://x.com/wczffL_503) · contact@ohdragonboi.cn
